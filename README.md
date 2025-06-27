@@ -39,7 +39,7 @@ It enables **rapid visualization, time-series analysis, anomaly detection**, and
 
 1. **Clone & create environment**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/aether-netcdf-explorer.git
+    git clone https://github.com/mixstam1821/aether-netcdf-explorer.git
     cd aether-netcdf-explorer
     python3 -m venv aetherenv
     source aetherenv/bin/activate
@@ -57,6 +57,15 @@ It enables **rapid visualization, time-series analysis, anomaly detection**, and
     - Explore: Select variables, dimensions, slice by time, click any pixel for full timeseries!
 
 ---
+
+## Using Docker
+
+```bash
+git clone https://github.com/mixstam1821/aether-netcdf-explorer.git
+cd aether-netcdf-explorer
+docker build -t aether-app .
+docker run -p 9826:9826 -v /path/to/your/netcdf/data:/data aether-app
+```
 
 ## 📦 Requirements
 
