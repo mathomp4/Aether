@@ -64,7 +64,7 @@ It enables **rapid visualization, time-series analysis, anomaly detection**, and
 git clone https://github.com/mixstam1821/aether-netcdf-explorer.git
 cd aether-netcdf-explorer
 docker build -t aether-app .
-docker run -p 9826:9826 -v /path/to/your/netcdf/data:/data aether-app
+docker run -p 9285:9285 -v /path/to/your/netcdf/data:/data aether-app
 ```
 
 ## 📦 Requirements
