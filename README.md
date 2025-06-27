@@ -129,3 +129,40 @@ Try with freely available climate/earth science datasets:
 **Enjoy data exploration at the speed of thought—powered by Aether!**
 
 ---
+```bash
+🚀 Introducing Aether: Your Fast, Interactive NetCDF Explorer 🌏
+
+I’ve always admired NASA’s Panoply for making multidimensional scientific data explorable. But after years of working with NetCDF files, I found myself craving more:
+
+Smoother animation playback
+
+Instant timeseries analysis, directly from map clicks
+
+Way faster performance on modern datasets
+
+And honestly? Just more interactivity—less “static” and more “alive.”
+
+That’s why I built Aether.
+
+✨ What’s special?
+
+Real-time map animation: Watch your NetCDF data come alive, step by step.
+
+One-click timeseries extraction: Click anywhere on the map to instantly pull up time series and anomaly charts, with built-in trend analysis.
+
+Sleek, modern interface: Minimal waiting. Drag, zoom, box-select, analyze—Aether just responds.
+
+Performance-obsessed: Handles huge datasets with buttery smoothness, way beyond what I could get in legacy tools.
+
+Open source & hackable: Built with Python, Bokeh, and modern data science libraries.
+
+If you love Panoply but wish it was faster, smarter, and just… more fun—give Aether a spin!
+Check out the animated demo below ⬇️
+
+
+Get started:
+https://github.com/mixstam1821/aether
+
+Feedback and PRs welcome! And big thanks to NASA’s Panoply team for showing the way. 🌌
+
+```
