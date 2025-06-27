@@ -24,17 +24,29 @@ It enables **rapid visualization, time-series analysis, anomaly detection**, and
 - **Annual Cycle Analysis**
 - **Latitudinal Mean Profile** (area-weighted)
 - **Full dataset info panel**
-- **Notes area for in-app documentation
+- **Notes area for in-app documentation**
 
 ---
 
-## 🎥 Demo Screenshots
+## 🎥 Screenshots and Instructions
 <!-- Insert images or GIFs of the UI here if possible -->
 ![Aether UI](assets/ae1.png)
 ![Aether UI](assets/ae2.png)
 ![Aether UI](assets/ae3.png)
+
+- Copy the full filepath (/home/michael/myfile.nc) or right click on .nc file select copy and then just paste in the input field (e.g. file:///home/michael/myfile.nc).
+- Press the button Load File and the file will load.
+- By default Ather understand the common lat lon time dimensions, but please ensure that all the dimensions and the variable are that you want to investigate.
 ![Aether UI](assets/ae1.gif)
+
+- After the file loading, you can interact with the map and explore the distribution of the variable.
+- By clicking on a specific point or selecting a box area you can get the corresponding spatial-averaged timeseries. Anomalies of these timeseries are also computed.
+- Linear trend line and low pass filtered data (Savitzky-Golay filter) are applied to the timeseries.
 ![Aether UI](assets/ae2.gif)
+
+- The user can select a specific range of the timeseries' date range and get the corresponding trend.
+- Animation of the map, select a specific data or a time slider are also supported.
+- The user can change the colormap and its min max values.
 ![Aether UI](assets/ae3.gif)
 ![Aether UI](assets/ae4.gif)
 ![Aether UI](assets/ae5.gif)
