@@ -30,6 +30,15 @@ It enables **rapid visualization, time-series analysis, anomaly detection**, and
 
 ## 🎥 Demo Screenshots
 <!-- Insert images or GIFs of the UI here if possible -->
+![Aether UI](assets/ae1.png)
+![Aether UI](assets/ae2.png)
+![Aether UI](assets/ae3.png)
+![Aether UI](assets/ae1.gif)
+![Aether UI](assets/ae2.gif)
+![Aether UI](assets/ae3.gif)
+![Aether UI](assets/ae4.gif)
+![Aether UI](assets/ae5.gif)
+![Aether UI](assets/ae6.gif)
 
 ---
 
