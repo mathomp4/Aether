@@ -21,12 +21,10 @@ It enables **rapid visualization, time-series analysis, anomaly detection**, and
   - Savitzky-Golay filtering, OLS/Theil-Sen trend lines, p-values
 - **Interactive Area Averaging**
   - Drag/box-select region to view mean timeseries/trends
-- **Annual & Seasonal Cycle Analysis**
+- **Annual Cycle Analysis**
 - **Latitudinal Mean Profile** (area-weighted)
 - **Full dataset info panel**
-- **Customizable, accessible UI**
-  - All widgets restyled for dark mode, with CSS theming
-  - Notes area for in-app documentation
+- **Notes area for in-app documentation
 
 ---
 
