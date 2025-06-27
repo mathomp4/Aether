@@ -1,4 +1,4 @@
-bokeh==3.7.3
+bokeh==3.6.3
 Cartopy==0.24.1
 certifi==2025.6.15
 cftime==1.6.4.post1
