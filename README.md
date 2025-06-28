@@ -1,7 +1,26 @@
 # Aether: Fast NetCDF Explorer
 
 _Aether_ is a modern, high-performance interactive explorer for **NetCDF datasets**, built with **Bokeh**, **Xarray**, and **SciPy**.  
-It enables **rapid visualization, time-series analysis, anomaly detection**, and **latitudinal profiling** of large scientific datasets—right in your browser, with zero-friction interactive controls.
+
+This application is highly inspired by NASA’s Panoply!
+
+NetCDF files are a common file type in climate science, and Aether is an excellent app for students and researchers for quick exploration of the .nc files.
+
+More specifically, Aether lets you:
+
+Instantly visualize huge NetCDF datasets—no lag
+Pick variables & dimensions with a click (supports 4D/5D)
+Explore maps, timeseries, anomalies, and trends right in your browser
+Click anywhere for instant timeseries & anomaly analysis (with built-in trend lines)
+Drag, box-select, zoom, animate, and analyze—real time!
+Full info panels, custom colormaps, and robust color scaling
+
+## What new Aether brings to the table?
+
+- Interactive map (zoom, pan, selection).
+- Time series and their core statistics by clicking or selecting a region.
+- Animations.
+- Custom trend detection.
 
 ---
 
@@ -86,6 +105,8 @@ cd aether-netcdf-explorer
 docker build -t aether-app .
 docker run -p 9285:9285 -v /path/to/your/netcdf/data:/data aether-app
 ```
+
+To test some netCDFs, please download them via the links in assets/links.txt.
 
 ## 📦 Requirements
 
