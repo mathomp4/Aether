@@ -143,39 +143,16 @@ Try with freely available climate/earth science datasets:
 
 ---
 ```bash
-🚀 Introducing Aether: Your Fast, Interactive NetCDF Explorer 🌏
+In Greek mythology, Aether (/ˈiːθər/; Ancient Greek: Αἰθήρ (Brightness) pronounced [ai̯tʰɛ̌ːr]) is the personification of the bright upper sky. According to Hesiod, he was the son of Erebus (Darkness) and Nyx (Night), and the brother of Hemera (Day).
 
-I’ve always admired NASA’s Panoply for making multidimensional scientific data explorable. But after years of working with NetCDF files, I found myself craving more:
+Hymn to Aether
+The Orphic Hymns (2nd or 3rd centuries AD?) are a collection of eighty-seven poems addressed to various deities or abstractions. The fifth Orphic Hymn, which prescribes an offering of saffron, addresses Aether as follows:
 
-Smoother animation playback
-
-Instant timeseries analysis, directly from map clicks
-
-Way faster performance on modern datasets
-
-And honestly? Just more interactivity—less “static” and more “alive.”
-
-That’s why I built Aether.
-
-✨ What’s special?
-
-Real-time map animation: Watch your NetCDF data come alive, step by step.
-
-One-click timeseries extraction: Click anywhere on the map to instantly pull up time series and anomaly charts, with built-in trend analysis.
-
-Sleek, modern interface: Minimal waiting. Drag, zoom, box-select, analyze—Aether just responds.
-
-Performance-obsessed: Handles huge datasets with buttery smoothness, way beyond what I could get in legacy tools.
-
-Open source & hackable: Built with Python, Bokeh, and modern data science libraries.
-
-If you love Panoply but wish it was faster, smarter, and just… more fun—give Aether a spin!
-Check out the animated demo below ⬇️
-
-
-Get started:
-https://github.com/mixstam1821/aether
-
-Feedback and PRs welcome! And big thanks to NASA’s Panoply team for showing the way. 🌌
+Yours are Zeus' lofty dwelling, endless power too;
+of the stars, of the sun, and of the moon you claim a share.
+O tamer of all, O fire-breather, O life's spark for every creature,
+sublime Ether, best cosmic element,
+radiant, luminous, starlit offspring,
+I call upon you and I beseech you to be temperate and clear.
 
 ```
