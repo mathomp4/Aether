@@ -51,6 +51,7 @@ It enables **rapid visualization, time-series analysis, anomaly detection**, and
 ![Aether UI](assets/ae4.gif)
 ![Aether UI](assets/ae5.gif)
 ![Aether UI](assets/ae6.gif)
+-- The annual cycle will appear only with monthly data.
 
 ---
 
