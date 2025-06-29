@@ -79,7 +79,7 @@ Full info panels, custom colormaps, and robust color scaling
 1. **Clone & create environment**
     ```bash
     git clone https://github.com/mixstam1821/Aether.git
-    cd aether-netcdf-explorer
+    cd Aether
     python3 -m venv aetherenv
     source aetherenv/bin/activate
     pip install --upgrade pip
@@ -101,7 +101,7 @@ Full info panels, custom colormaps, and robust color scaling
 
 ```bash
 git clone https://github.com/mixstam1821/Aether.git
-cd aether-netcdf-explorer
+cd Aether
 docker build -t aether-app .
 docker run -p 9285:9285 -v /path/to/your/netcdf/data:/data aether-app
 ```
