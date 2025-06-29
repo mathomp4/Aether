@@ -36,4 +36,4 @@ COPY . /app
 EXPOSE 9285
 
 # ---- Default command ----
-CMD ["bokeh", "serve", "--show", "aether.py", "--port", "5006", "--allow-websocket-origin=*", "--allow-websocket-origin=localhost:9285"]
+CMD ["bokeh", "serve", "--show", "aether.py", "--port", "9285", "--allow-websocket-origin=*", "--allow-websocket-origin=localhost:9285"]
