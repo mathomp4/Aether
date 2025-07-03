@@ -24,6 +24,10 @@ Full info panels, custom colormaps, and robust color scaling
 
 ---
 
+## Update 03.07.2025
+- Analysis for the trends of the 12 months of the year has been added as a bar plot.
+![Aether UI](assets/Screenshot_20250703_042747.png)
+
 ## 🚀 Features
 
 - **Fast NetCDF File Loading** (local path)
