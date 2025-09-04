@@ -84,15 +84,11 @@ Full info panels, custom colormaps, and robust color scaling
     ```bash
     git clone https://github.com/mixstam1821/Aether.git
     cd Aether
-    python3 -m venv aetherenv
-    source aetherenv/bin/activate
-    pip install --upgrade pip
-    pip install -r requirements.txt
     ```
 
 2. **Run the app**
     ```bash
-    bokeh serve --show aether.py
+    uv run bokeh serve --show aether.py
     ```
 
 3. **Open in browser**
